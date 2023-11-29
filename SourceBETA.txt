@@ -22,7 +22,7 @@
 
  Notify({
 		 Description = "Jayyware Admin)";
-		 Title = "hello!";
+		 Title = "Welcome!";
 		 Duration = 10;
 		 
 });
@@ -60,7 +60,7 @@
  }
  
  -- [[ Version ]] -- 
- currentversion = 0.01
+ currentversion = BETA
  
  --[[ VARIABLES ]]--
  PlaceId, JobId = game.PlaceId, game.JobId
